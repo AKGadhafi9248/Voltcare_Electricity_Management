@@ -1,0 +1,7 @@
+com.example.myproject
+com.example.myproject.config
+com.example.myproject.controller
+com.example.myproject.dao
+com.example.myproject.interceptor
+com.example.myproject.model
+com.example.myproject.service
