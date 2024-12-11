@@ -15,8 +15,8 @@ This is my ILP sprint case study project with Spring Boot and JSP.
 ![Login Page](https://github.com/AKGadhafi9248/Voltcare_Electricity_Management/blob/main/screenshots/Screenshot%202024-12-03%20104539.png)
 7. Admin Page.
 ![Login Page](https://github.com/AKGadhafi9248/Voltcare_Electricity_Management/blob/main/screenshots/Screenshot%202024-12-03%20104754.png)
-8. Afmin Login Page.
-![Login Page](https://github.com/AKGadhafi9248/Voltcare_Electricity_Management/blob/main/screenshots/Screenshot%202024-12-03%20104841.png)
+8. Admin Login Page.
+![Login Page](https://github.com/AKGadhafi9248/Voltcare_Electricity_Management/blob/main/screenshots/Screenshot%202024-12-03%20104814.png)
 9. Add Bill Page.
 ![Login Page](https://github.com/AKGadhafi9248/Voltcare_Electricity_Management/blob/main/screenshots/Screenshot%202024-12-03%20104901.png)
 ![Login Page](https://github.com/AKGadhafi9248/Voltcare_Electricity_Management/blob/main/screenshots/Screenshot%202024-12-03%20104913.png)
